@@ -21,16 +21,6 @@
     "OWNER_ID": "@OWNER_ID",
     "DATABASE_URL": "@DATABASE_URL",
     "FQDN": "@FQDN"
-  },
-  "envSecrets": {
-    "BOT_TOKEN": "@BOT_TOKEN",
-    "API_ID": "@API_ID",
-    "API_HASH": "@API_HASH",
-    "BIN_CHANNEL": "@BIN_CHANNEL",
-    "UPDATES_CHANNEL": "@UPDATES_CHANNEL",
-    "OWNER_USERNAME": "@OWNER_USERNAME",
-    "OWNER_ID": "@OWNER_ID",
-    "DATABASE_URL": "@DATABASE_URL",
-    "FQDN": "@FQDN"
   }
+  
 }
